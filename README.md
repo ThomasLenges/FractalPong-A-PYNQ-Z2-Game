@@ -55,3 +55,9 @@ To deploy and test this project, you will need the following hardware:
 
 ## Acknowledgements
 The authors would like to thank the **TCL (Telecommunications Circuits Lab)** at EPFL for its support, resources, and guidance throughout the development of this project.
+
+## Figure 1: PONG Game with Mandelbrot Fractal Background
+
+![Pong Game with Mandelbrot Fractal](images/gameimage.jpg)
+
+*Figure 1: The PONG game running on the PYNQ-Z2 board with the Mandelbrot fractal background displayed on the monitor.*
