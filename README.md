@@ -71,7 +71,7 @@ from the VGA controller to output the correct pixel values for the PONG backgrou
 
 ---
 
-## Figure 4: FPGA board connected with PMOD VGA, USB, Ethernet, and a VGA cable.
+## Figure 3: FPGA board connected with PMOD VGA, USB, Ethernet, and a VGA cable.
 
 <img src="images/board.png" alt="FPGA board setup" width="500"/>
 
