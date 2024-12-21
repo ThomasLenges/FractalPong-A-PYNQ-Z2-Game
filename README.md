@@ -58,6 +58,6 @@ The authors would like to thank the **TCL (Telecommunications Circuits Lab)** at
 
 ## Figure 1: PONG Game with Mandelbrot Fractal Background
 
-![Pong Game with Mandelbrot Fractal](images/gameimage.jpg)
+<img src="images/gameimage.jpg" alt="Pong Game with Mandelbrot Fractal" width="500"/>
 
 *Figure 1: The PONG game running on the PYNQ-Z2 board with the Mandelbrot fractal background displayed on the monitor.*
