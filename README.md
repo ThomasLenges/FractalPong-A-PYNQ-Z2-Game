@@ -67,7 +67,7 @@ from the VGA controller to output the correct pixel values for the PONG backgrou
 
 <img src="images/scheme.png" alt="Project schematic" width="500"/>
 
-*Figure 1: The schematic diagram illustrating the background frame buffer and VGA controller interaction for rendering the PONG game's background.*
+*Figure 2: The schematic diagram illustrating the background frame buffer and VGA controller interaction for rendering the PONG game's background.*
 
 ---
 
@@ -75,6 +75,6 @@ from the VGA controller to output the correct pixel values for the PONG backgrou
 
 <img src="images/board.png" alt="FPGA board setup" width="500"/>
 
-*Figure 4: The FPGA board setup, showing the connections to the PMOD VGA, USB, Ethernet, and VGA cable. For those using VGA to HDMI adapters, the setup is the same with the adapter connected to the PMOD VGA module.*
+*Figure 3: The FPGA board setup, showing the connections to the PMOD VGA, USB, Ethernet, and VGA cable. For those using VGA to HDMI adapters, the setup is the same with the adapter connected to the PMOD VGA module.*
 
 The last two figures and descriptions, **Figure 2** and **Figure 3** belong to the **TCL (Telecommunications Circuits Lab)** at EPFL.
